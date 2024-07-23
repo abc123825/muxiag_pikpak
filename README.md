@@ -188,3 +188,4 @@ sudo systemctl start cloudflared
 
 对了想要流量卡的
 http://dcf98.r6d.cn/76
+gitee访问方式:https://gitee.com/ARmuxiang_admin_admin/muxiag_pikpak
